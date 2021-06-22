@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627372316581",
+    "project_id": "flowers-2a0bb",
+    "storage_bucket": "flowers-2a0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627372316581:android:1fa78089ae9fb747d1ba4c",
+        "android_client_info": {
+          "package_name": "com.firstapp.flowers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627372316581-j0r1reh38nu1al1p3597h4bau31f9lea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmj-sMIXkpjRBh9gU1rtviNyi05GL3kIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627372316581-j0r1reh38nu1al1p3597h4bau31f9lea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
